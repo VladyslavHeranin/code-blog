@@ -1,5 +1,0 @@
-{
-    "port": 5000,
-    "url": "mongodb+srv://vladislav:plkiu12345@cluster0.2kng0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "key": "user-key-manager"
-}
